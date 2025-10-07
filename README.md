@@ -1,6 +1,8 @@
 # Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems
 This repository contains the implementation of the experiments from the paper [Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems](TODO-LinkToPaper) presented & published at SysTol 2025 by André Artelt, Janine Strotherm, Luca Hermes, Barbara Hammer
 
+The slides of conference presentation are available [here](systol-presentation.pdf).
+
 ## Abstract
 
 Water utilities around the world typically use chlorine as the main disinfectant for ensuring high-quality drinking water. Usually, a few fixed sensors monitor water quality by detecting changes in parameters like chlorine residuals, guiding chlorination strategies. However, limited sensor coverage leaves most parts of the network unmonitored. Additionally, rapid urban growth and climate change complicate water quality dynamics, challenging conventional methods for sparse to dense state estimation.
