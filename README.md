@@ -1,5 +1,5 @@
 # Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems
-This repository contains the implementation of the experiments from the paper [Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems](TODO-LinkToPaper) presented & published at SysTol 2025 by André Artelt, Janine Strotherm, Luca Hermes, Barbara Hammer
+This repository contains the implementation of the experiments from the paper [Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems](https://doi.org/10.1109/SysTol66549.2025.11267307) presented & published at SysTol 2025 by André Artelt, Janine Strotherm, Luca Hermes, Barbara Hammer
 
 The slides of conference presentation are available [here](systol-presentation.pdf).
 
@@ -26,9 +26,16 @@ MIT license - See [LICENSE](LICENSE).
 ## How to Cite?
 
 ```
-@article{NeuralSurrogateKalmanChlorineEstimationArtelt2025,
-        author = {André Artelt and JanineStrotherm and Luca Hermes and Barbara Hammer},
-        title = {{Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems}},
-        year = {2025}
-    }
+@article{Artelt_Strotherm_Hermes_Hammer_2025,
+        title={Neural Surrogate Model in an Extended Kalman Filter for Chlorine Concentration State Estimation in Water Distribution Systems},
+        url={http://dx.doi.org/10.1109/systol66549.2025.11267307},
+        DOI={10.1109/systol66549.2025.11267307},
+        journal={2025 6th International Conference on Control and Fault-Tolerant Systems (SysTol)},
+        publisher={IEEE},
+        author={Artelt, André and Strotherm, Janine and Hermes, Luca and Hammer, Barbara},
+        year={2025},
+        month=oct,
+        pages={277–283}
+}
+
 ```
